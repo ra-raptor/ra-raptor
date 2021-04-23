@@ -19,18 +19,34 @@
     <img src="https://img.shields.io/github/stars/ra-raptor?color=%23008CCA&style=for-the-badge">
     <img src="https://img.shields.io/reddit/user-karma/combined/vikaskumarsaw?label=Reddit&style=for-the-badge">
 </p>
-
 <br />
-
-### Summary👋
+<h3 align="center">Summary👋</h3>
+<br />
 
 - 🔭 I’m currently learning Next.js and TypeScript.
 - 👨‍🎓 I'm a First year Computer Science student.
 - 👨‍💻 I'm skilled in Frontend Web and Flutter.
 - 🚀 I'm looking forward to dive into Backend.
 - 👯 I’m Always ready to collaborate on Dev Projects.
+- 🎸 I'm learning to play Guitar.
 - 💬 I'm Open to questions about projects I've worked on.
 - 📫 How to reach me: vikasvks0112@gmail.com
+
+<br />
+<h3 align="center">Stats 📈</h3>
+<br />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ra-raptor&count_private=true&show_icons=true&theme=tokyonight&&hide_border=true">
+</p>
+<hr >
+<p align="center">
+<img align="center" alt="code streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ra-raptor&theme=monokai-metallian&hide_border=true&theme=tokyonight"/>
+</p>
+<hr />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra-raptor&&langs_count=10&layout=compact&theme=tokyonight&hide_border=true">
+</p>
 
 <p align="center">
 <img width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
