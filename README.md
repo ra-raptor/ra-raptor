@@ -33,6 +33,69 @@
 - 📫 How to reach me: vikasvks0112@gmail.com
 
 <br />
+
+<h3 align="center">Languages </h3>
+<br />
+<div align="center">
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="35" /> 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="35" /> 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="35" />
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="35" /> 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="35" />
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="35" />   
+</div>
+<br />
+<h3 align="center">Libraries  and Tools </h3>
+<br />
+<div align="center">
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="35" />
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="35" />
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="35" /> 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="35" />  
+ 
+ 
+  
+ 
+ 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="35" />  
+  
+ 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="35" />
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="35" />
+
+</div>
+
+<br />
+<h3 align="center">Art and Design </h3>
+<br />
+<div align="center">
+
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="35" />
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="35" /> 
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="35" />  
+<img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" /> 
+</div>
+<br />
 <h3 align="center">Stats 📈</h3>
 <br />
 <p align="center">
