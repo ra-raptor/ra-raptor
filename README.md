@@ -7,7 +7,7 @@
 <h3>
 
 ```python
-[ 'Frontend Delevoper', 'UI Designer', 'Hobbyist 3D Artist' ]
+[ 'Frontend Developer', 'UI Designer', 'Hobbyist 3D Artist' ]
 ```
 
 </h3>
@@ -22,40 +22,28 @@
 
 <br />
 
-- 🔭 I’m currently learning Next.js and TypeScript
-- 👯 I’m looking to collaborate on React.js projects
+### Summary👋
+
+- 🔭 I’m currently learning Next.js and TypeScript.
+- 👨‍🎓 I'm a First year Computer Science student.
+- 👨‍💻 I'm skilled in Frontend Web and Flutter.
+- 🚀 I'm looking forward to dive into Backend.
+- 👯 I’m Always ready to collaborate on Dev Projects.
+- 💬 I'm Open to questions about projects I've worked on.
 - 📫 How to reach me: vikasvks0112@gmail.com
 
 <p align="center">
 <img width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </p>
-<!-- Gmail -->
 
-<a href="mailto:shafinshahriar340@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
-</a>
+<p align="center">
+    <a href="mailto:vikasvks0112@gmail.com" target="_blank"><img alt="Gmail"
+                    src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/vikas.kumar.saw/" target="_blank"><img alt="Instagram"
+                    src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
+    </a>
+    <br />
+    <img src="https://komarev.com/ghpvc/?username=ra-raptor&&style=" align="center" />
 
-<!-- Facebook -->
-
-<a href="https://www.facebook.com/shhriar.shafin" target="_blank"><img alt="Facebook"
-                src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white">
-</a>
-
-<!-- Instagram -->
-
-<a href="https://www.instagram.com/shhriar_shafin/" target="_blank"><img alt="Instagram"
-                src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white">
-</a>
-
-<!-- Linkedin -->
-
-<a href="https://www.linkedin.com/in/shahriarshafin/" target="_blank"><img alt="Linkedin"
-                src="https://img.shields.io/badge/-Linkedin-0A66C2?style=flat-square&logo=Linkedin&logoColor=white">
-</a>
-
-<!-- Youtube -->
-
-<a href="https://www.youtube.com/c/ShahriarShafin/videos" target="_blank"><img alt="Youtube"
-                src="https://img.shields.io/badge/-Youtube-FF0000?style=flat-square&logo=Youtube&logoColor=white">
-</a>
-<img src="https://komarev.com/ghpvc/?username=ra-raptor&&style=" align="center" />
+</p>
