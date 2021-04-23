@@ -3,10 +3,13 @@
 <h1 align="center">Hey there, I'm Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
 <div align="center">
+<h3>
 
 ```python
 ['Frontend Delevoper','UI Designer','Hobbyist 3D Artist']
 ```
+
+</h3>
 
 </div>
 
