@@ -1,18 +1,11 @@
 <link rel="stylesheet" href="styles.css">
 
-<h1>Hey there, I'm Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center">Hey there, I'm Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
-<h2>HI</h2>
+<!-- <h2>HI</h2> -->
 
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="50">
-    <defs>
-        <style>
-            @import url("https://fonts.googleapis.com/css?family=Roboto:400,400i,700,700i&family=Montserrat:wght@300;400;500&family=Quicksand:wght@300;400;500&display=swap");
-        </style>
-    </defs>
-    <style><![CDATA[svg text{stroke:none}]]></style>
-    <text x="20" y="50" font-family="Quicksand">Vikas</text>
-</svg>
+<!-- <img src="hello.svg">
+<img src="new.svg"> -->
 
 <!--
 - 🔭 I’m currently working on ...
