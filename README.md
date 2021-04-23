@@ -2,6 +2,15 @@
 
 <h1>Hey there, I'm Vikas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 
+<h2>HI</h2>
+
+<style>
+    h2{
+    text-align: center;
+    margin: 1rem;
+}
+</style>
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
