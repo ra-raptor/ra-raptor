@@ -4,7 +4,6 @@
 
 <h2>HI</h2>
 
-</style>
 <svg xmlns="http://www.w3.org/2000/svg" width="100" height="50">
     <defs>
         <style>
