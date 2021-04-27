@@ -76,6 +76,7 @@
   
  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="35" />  
+<img style="margin: 5px" src="https://www.vectorlogo.zone/logos/godotengine/godotengine-icon.svg" alt="Unity" height="35" /> 
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="35" />  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="35" />
