@@ -80,7 +80,7 @@
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="35" />  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="35" />  
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="35" />
-
+<img style="margin: 5px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="D3.js" height="35" />
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="35" />
 
 </div>
