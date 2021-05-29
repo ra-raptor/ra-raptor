@@ -20,19 +20,7 @@
     <img src="https://img.shields.io/reddit/user-karma/combined/vikaskumarsaw?label=Reddit&style=for-the-badge">
 </p>
 <br />
-<h3 align="center">Summary👋</h3>
-<br />
 
-- 🔭 I’m currently learning Next.js and TypeScript.
-- 👨‍🎓 I'm a First year Computer Science student.
-- 👨‍💻 I'm skilled in Frontend Web and Flutter.
-- 🚀 I'm looking forward to dive into Backend.
-- 👯 I’m Always ready to collaborate on Dev Projects.
-- 🎸 I'm learning to play Guitar.
-- 💬 I'm Open to questions about projects I've worked on.
-- 📫 How to reach me: vikasvks0112@gmail.com
-
-<br />
 
 <h3 align="center">Languages </h3>
 <br />
