@@ -91,14 +91,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ra-raptor&count_private=true&show_icons=true&theme=tokyonight&&hide_border=true">
 </p>
-<hr >
-<p align="center">
-<img align="center" alt="code streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ra-raptor&theme=monokai-metallian&hide_border=true&theme=tokyonight"/>
-</p>
-<hr />
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ra-raptor&&langs_count=10&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+
 
 <p align="center">
 <img width="300" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
