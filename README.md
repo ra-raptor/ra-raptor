@@ -7,7 +7,7 @@
 <h3>
 
 ```python
-[ 'Frontend Developer', 'UI Designer', 'Hobbyist 3D Artist' ]
+[ 'Fullstack Web Developer', 'Novice Android Developer', 'Hobbyist 3D Artist' ]
 ```
 
 </h3>
