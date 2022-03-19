@@ -17,7 +17,7 @@
 <p align="center">
     <img src="https://img.shields.io/github/followers/ra-raptor?color=%23008CCA&style=for-the-badge">
     <img src="https://img.shields.io/github/stars/ra-raptor?color=%23008CCA&style=for-the-badge">
-    <img src="https://img.shields.io/reddit/user-karma/combined/vikaskumarsaw?label=Reddit&style=for-the-badge">
+    <!--<img src="https://img.shields.io/reddit/user-karma/combined/vikaskumarsaw?label=Reddit&style=for-the-badge">-->
 </p>
 <br />
 
@@ -72,7 +72,7 @@
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/gatsby.png" alt="Gatsby" height="35" />
 
 </div>
-
+<!--
 <br />
 <h3 align="center">Art and Design </h3>
 <br />
@@ -85,6 +85,7 @@
 <img style="margin: 5px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="35" /> 
 </div>
 <br />
+-->
 <h3 align="center">Stats 📈</h3>
 <br />
 <p align="center">
